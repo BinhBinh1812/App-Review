@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var SOCKET = \"SOCKET\";","map":{"version":3,"names":["SOCKET"],"sources":["C:/Users/TTB/Desktop/Demo/Test/src/redux/constants/socketConstant.js"],"sourcesContent":["export const SOCKET = \"SOCKET\";\n"],"mappings":"AAAA,OAAO,IAAMA,MAAM,GAAG,QAAf"},"metadata":{},"sourceType":"module"}
